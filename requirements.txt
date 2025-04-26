@@ -1,6 +1,6 @@
-streamlit>=1.31
-langchain>=0.1.14
-langchain-community>=0.0.9
-transformers>=4.39
-tavily-python>=0.3.2
-torch>=2.0
+streamlit
+langchain
+langchain-community
+transformers
+tavily-python
+torch
